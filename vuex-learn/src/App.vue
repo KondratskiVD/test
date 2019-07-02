@@ -7,7 +7,7 @@
         <router-link class="btn btn-secondary" to="/learnvx">| Learn Vuex |</router-link>
         <router-link class="btn btn-secondary" to="/car">| Car |</router-link>
         <router-link class="btn btn-secondary" to="/ajax">| Ajax |</router-link>
-        <router-link class="btn btn-secondary" to="/top">| for gitHub </router-link>
+        <router-link class="btn btn-secondary" to="/top">| Props </router-link>
       </div>
       <router-view></router-view>
     </div>
